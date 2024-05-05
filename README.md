@@ -3,7 +3,7 @@
 <h1>Spotify modded client</h1>
 <p>A modded Spotify client eliminating a few processors and includes spicetify</p>
 
-<h4> <span> · </span> <a href="https://github.com/xkt0001/Modtify/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/xkt0001/Modtify/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/xkt0001/Modtify/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://modtify.gitbook.io/modtify0"> Documentation </a> <span> · </span> <a href="https://github.com/xkt0001/Modtify/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/xkt0001/Modtify/issues"> Request Feature </a> </h4>
 
 
 </div>
